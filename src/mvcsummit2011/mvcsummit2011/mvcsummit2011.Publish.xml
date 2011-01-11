@@ -3,7 +3,7 @@
   <publishProfile publishUrl="C:\Users\vquaiato\Desktop\mvcsummit\publish" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
     <file relUrl="bin/System.Web.Extensions.dll" publishTime="03/18/2010 19:31:26" />
     <file relUrl="Views/MVCSummit/Index.cshtml" publishTime="01/11/2011 12:50:00" />
-    <file relUrl="Views/MVCSummit/Grade.cshtml" publishTime="01/11/2011 01:36:18" />
+    <file relUrl="Views/MVCSummit/Grade.cshtml" publishTime="01/11/2011 19:23:03" />
     <file relUrl="Scripts/jquery-1.4.4-vsdoc.js" publishTime="01/11/2011 00:43:46" />
     <file relUrl="Global.asax" publishTime="01/11/2011 00:43:46" />
     <file relUrl="Views/_ViewStart.cshtml" publishTime="01/11/2011 00:43:46" />
@@ -25,16 +25,16 @@
     <file relUrl="bin/WebMatrix.Data.xml" publishTime="12/08/2010 15:10:40" />
     <file relUrl="bin/Microsoft.Web.Infrastructure.xml" publishTime="12/08/2010 15:10:40" />
     <file relUrl="bin/WebMatrix.WebData.xml" publishTime="12/08/2010 15:10:40" />
-    <file relUrl="Views/Shared/_Layout.cshtml" publishTime="01/11/2011 19:12:01" />
-    <file relUrl="bin/mvcsummit2011.pdb" publishTime="01/11/2011 19:04:23" />
-    <file relUrl="bin/mvcsummit2011.dll" publishTime="01/11/2011 19:04:23" />
+    <file relUrl="Views/Shared/_Layout.cshtml" publishTime="01/11/2011 19:31:42" />
+    <file relUrl="bin/mvcsummit2011.pdb" publishTime="01/11/2011 19:31:43" />
+    <file relUrl="bin/mvcsummit2011.dll" publishTime="01/11/2011 19:31:43" />
     <file relUrl="bin/System.Web.Razor.dll" publishTime="12/09/2010 11:52:46" />
     <file relUrl="Views/Shared/_Contato.cshtml" publishTime="01/11/2011 18:42:34" />
     <file relUrl="bin/WebMatrix.WebData.dll" publishTime="12/09/2010 11:52:46" />
     <file relUrl="bin/System.Web.WebPages.Deployment.dll" publishTime="12/09/2010 11:52:44" />
     <file relUrl="bin/Microsoft.Web.Infrastructure.dll" publishTime="12/09/2010 11:52:46" />
     <file relUrl="bin/WebMatrix.Data.dll" publishTime="12/09/2010 11:52:44" />
-    <file relUrl="Content/Site.css" publishTime="01/11/2011 19:01:09" />
+    <file relUrl="Content/Site.css" publishTime="01/11/2011 19:30:56" />
     <file relUrl="Views/MVCSummit/Contato.cshtml" publishTime="01/11/2011 01:35:08" />
     <file relUrl="Views/MVCSummit/Palestras.cshtml" publishTime="01/11/2011 13:22:52" />
     <file relUrl="Views/Web.config" publishTime="01/11/2011 00:43:46" />

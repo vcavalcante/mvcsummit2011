@@ -131,6 +131,10 @@ th.palestra
 {
     text-align: center;
 }
+tbody tr
+{
+    background:#F0F0F0 ;
+}
 tbody tr:hover
 {
     background: #a2a2a2;
