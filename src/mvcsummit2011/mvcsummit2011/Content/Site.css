@@ -71,7 +71,7 @@ ul.menu
     width: 950px;
     margin: 0 auto;
     background:#F8F8F8;
-    color: #000;
+    color: #333;
     min-height: 400px;
     padding-bottom: 10px;
 }
@@ -100,7 +100,7 @@ p.assinatura
 .footer p
 {
     font-size: 14px;
-    color: #000 ;
+    color: #333 ;
     padding: 6px;
     margin: 0;
     text-align: center;
