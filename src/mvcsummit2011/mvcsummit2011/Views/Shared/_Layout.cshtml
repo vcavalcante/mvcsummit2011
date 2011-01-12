@@ -6,20 +6,23 @@
     <meta name="DESCRIPTION" content="tudo que você precisa saber sobre o ASP.NET MVC">
     <title>(ASP.NET) MVC Summit 2011</title>
     <link rel="stylesheet" href='@Url.Content("~/Content/Site.css")'/>
+    <script src="../../Scripts/jquery-1.4.4.js" type="text/javascript"></script>
+    <script src="../../Scripts/main.js" type="text/javascript"></script>
 </head>
 <body>
     <div class='header'>
         <div class='logo'>
-            <a href='@Url.Action("Index")' title="MVc Summit 2011 - Home">
-                <img src='@Url.Content("~/images/mvcsummit_logo.png")' alt="ASP.NET MVC Summit 2011" />
-            </a>
+            <h1>
+                <a href='@Url.Action("Index")' title="MVc Summit 2011 - Home">
+                   ASP.NET MVC Summit 2011
+                </a>
+            </h1>
         </div>
     </div>
     <div class='top-menu'>
         <ul class="menu">
             <li>@Html.ActionLink("O Evento", "OEvento")</li>
             <li>@Html.ActionLink("Grade", "Grade")</li>
-            @*            <li>@Html.ActionLink("Palestras", "Palestras")</li>*@
             <li>@Html.ActionLink("Contato", "Contato")</li>
         </ul>
     </div>

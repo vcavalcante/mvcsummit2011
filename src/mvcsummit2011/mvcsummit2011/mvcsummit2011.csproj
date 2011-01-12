@@ -94,7 +94,9 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="images\arrows.png" />
     <Content Include="images\mvcsummit_logo.png" />
+    <Content Include="Scripts\main.js" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>

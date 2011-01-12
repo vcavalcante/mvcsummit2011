@@ -10,6 +10,22 @@ body
     width: 950px;
     margin: 0 auto;
 }
+.header h1
+{
+    margin:0px;
+    padding:0px;
+   
+    }
+.header h1 a
+{ 
+    background-image:url("/images/mvcsummit_logo.png");
+    width:279px;
+    height:125px;
+    display:block;
+    
+    text-indent:-1000px;
+    
+    }
 .logo
 {
     height: 125px;
@@ -23,6 +39,8 @@ body
 {
     border: 0 none;
 }
+
+
 .top-menu
 {
     width: 950px;
@@ -109,6 +127,8 @@ table
 {
     margin: 0 auto;
     text-align: left;
+    width:90%;
+    border-collapse:collapse;
 }
 thead tr
 {
@@ -127,6 +147,18 @@ th.palestra
 {
     width: 550px;
 }
+tr.descricaoPalestra
+{
+    display:none;
+    border-top:none;
+    font-weight:normal;
+    }
+   
+tr.descricaoPalestra td
+{
+    padding:10px
+   
+    }
 .centro
 {
     text-align: center;
@@ -134,12 +166,27 @@ th.palestra
 tbody tr
 {
     background:#F0F0F0 ;
+    border-top:2px solid #fff;
+    font-weight:bold;
 }
 tbody tr:hover
 {
     background: #a2a2a2;
+    cursor:pointer;
 }
-
+td.exibeDescricao span
+{
+    background-image:url("/images/arrows.png");
+    background-position:0px 16px;
+    display: block;
+    height: 16px;
+    margin: auto;
+    width: 16px;
+    }
+td.exibeDescricao span.oculta
+{
+    background-position:0px 0px;
+    }
 .grade
 {
     width: 800px;
