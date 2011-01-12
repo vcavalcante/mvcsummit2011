@@ -96,6 +96,8 @@
     <Content Include="Content\Site.css" />
     <Content Include="images\arrows.png" />
     <Content Include="images\mvcsummit_logo.png" />
+    <Content Include="images\palestrantes\douglas_aguiar.jpg" />
+    <Content Include="images\palestrantes\nophoto.jpg" />
     <Content Include="images\palestrantes\vinicius_quaiato.jpg" />
     <Content Include="Scripts\main.js" />
     <Content Include="Web.config">
@@ -132,9 +134,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Shared\_Contato.cshtml" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Views\MVCSummit\Palestras.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\MVCSummit\Palestrantes.cshtml" />
