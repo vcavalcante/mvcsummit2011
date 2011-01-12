@@ -96,6 +96,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="images\arrows.png" />
     <Content Include="images\mvcsummit_logo.png" />
+    <Content Include="images\palestrantes\vinicius_quaiato.jpg" />
     <Content Include="Scripts\main.js" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
@@ -134,6 +135,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\MVCSummit\Palestras.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\MVCSummit\Palestrantes.cshtml" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />

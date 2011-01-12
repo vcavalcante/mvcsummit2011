@@ -24,9 +24,9 @@ namespace mvcsummit2011.Controllers
         {
             return View();
         }
-        //public ActionResult Palestras()
-        //{
-        //    return View();
-        //}
+        public  ActionResult Palestrantes()
+        {
+            return View();
+        }
     }
 }
