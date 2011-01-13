@@ -76,10 +76,17 @@ ul.menu
     color: #fff;
     border-bottom: 4px solid #1BA1E2;
 }
-.menu li a:active
+.menu li a:active, .menu li a.selected
 {
     border-bottom: 4px solid #1BA1E2;
 }
+
+#trilhas
+{
+    width:254px;
+   margin-left:345px;
+    
+    }
 
 .content
 {
@@ -127,6 +134,11 @@ table
     width: 90%;
     border-collapse: collapse;
 }
+table caption
+{
+    padding-top:15px;
+    font-weight:bold;
+    }
 thead tr
 {
     background: #1BA1E2;
